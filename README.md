@@ -72,6 +72,7 @@ Please feel free to open a PR and add things to the list!
 - [erincatto/Box2D](https://github.com/erincatto/Box2D) - Box2D is a 2D physics engine for games. ![stars](https://img.shields.io/github/stars/erincatto/Box2D?style=flat-square) ![license](https://img.shields.io/github/license/erincatto/Box2D?style=flat-square)
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications. ![stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics?style=flat-square) ![license](https://img.shields.io/github/license/jrouwe/JoltPhysics?style=flat-square)
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - A header-only Python interpreter for game scripting in Modern C++. ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
+- [raysan5/raylib](https://github.com/raysan5/raylib) :zap: - A simple and easy-to-use library to enjoy videogames programming. ![stars](https://img.shields.io/github/stars/raysan5/raylib?style=flat-square) ![license](https://img.shields.io/github/license/raysan5/raylib?style=flat-square)
 - [skypjack/entt](https://github.com/skypjack/entt) :zap: - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more. ![stars](https://img.shields.io/github/stars/skypjack/entt?style=flat-square) ![license](https://img.shields.io/github/license/skypjack/entt?style=flat-square)
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - a C++ <-> Lua API wrapper with advanced features and top notch performance. ![stars](https://img.shields.io/github/stars/ThePhD/sol2?style=flat-square) ![license](https://img.shields.io/github/license/ThePhD/sol2?style=flat-square)
 
@@ -109,6 +110,7 @@ Please feel free to open a PR and add things to the list!
 
 ## Multimedia
 
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer. ![stars](https://img.shields.io/github/stars/libsdl-org/SDL?style=flat-square) ![license](https://img.shields.io/github/license/libsdl-org/SDL?style=flat-square)
 - [SFML/SFML](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. ![stars](https://img.shields.io/github/stars/SFML/SFML?style=flat-square) ![license](https://img.shields.io/github/license/SFML/SFML?style=flat-square)
 
 ## Networking
@@ -133,6 +135,8 @@ Please feel free to open a PR and add things to the list!
 ## Rendering
 
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) :zap: - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. ![stars](https://img.shields.io/github/stars/bkaradzic/bgfx?style=flat-square) ![license](https://img.shields.io/github/license/bkaradzic/bgfx?style=flat-square)
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer. ![stars](https://img.shields.io/github/stars/libsdl-org/SDL?style=flat-square) ![license](https://img.shields.io/github/license/libsdl-org/SDL?style=flat-square)
+- [raysan5/raylib](https://github.com/raysan5/raylib) :zap: - A simple and easy-to-use library to enjoy videogames programming. ![stars](https://img.shields.io/github/stars/raysan5/raylib?style=flat-square) ![license](https://img.shields.io/github/license/raysan5/raylib?style=flat-square)
 - [SFML/SFML](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. ![stars](https://img.shields.io/github/stars/SFML/SFML?style=flat-square) ![license](https://img.shields.io/github/license/SFML/SFML?style=flat-square)
 
 ## Scripting

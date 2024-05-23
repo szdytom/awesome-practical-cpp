@@ -1,0 +1,6 @@
+{
+	"path": "raysan5/raylib",
+	"description": "A simple and easy-to-use library to enjoy videogames programming",
+	"zap": true,
+	"topics": ["Game Utility", "Rendering"]
+}
