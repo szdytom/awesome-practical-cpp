@@ -1,0 +1,6 @@
+{
+	"path": "pocketpy/pocketpy",
+	"description": "A header-only Python interpreter for game scripting in Modern C++",
+	"zap": false,
+	"topics": ["Game Utility", "Scripting"]
+}

@@ -1,0 +1,6 @@
+{
+	"path": "unicode-org/icu",
+	"description": "A set of C/C++ libraries providing Unicode and Globalization support",
+	"zap": false,
+	"topics": ["Internationalization"]
+}

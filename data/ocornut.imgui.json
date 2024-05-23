@@ -1,0 +1,6 @@
+{
+	"path": "ocornut/imgui",
+	"description": "Bloat-free Graphical User interface for C++ with minimal dependencies",
+	"zap": true,
+	"topics": ["GUI"]
+}

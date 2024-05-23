@@ -1,0 +1,6 @@
+{
+	"path": "GNOME/gtkmm",
+	"description": "The official C++ interface for the popular GUI library GTK+",
+	"zap": false,
+	"topics": ["GUI"]
+}

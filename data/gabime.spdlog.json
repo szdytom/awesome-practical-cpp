@@ -1,0 +1,6 @@
+{
+	"path": "gabime/spdlog",
+	"description": "Fast C++ logging library",
+	"zap": true,
+	"topics": ["Logging"]
+}

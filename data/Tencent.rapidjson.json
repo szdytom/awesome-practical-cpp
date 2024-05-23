@@ -1,0 +1,6 @@
+{
+	"path": "Tencent/rapidjson",
+	"description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+	"zap": true,
+	"topics": ["JSON"]
+}

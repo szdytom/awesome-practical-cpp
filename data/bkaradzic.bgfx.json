@@ -1,0 +1,6 @@
+{
+	"path": "bkaradzic/bgfx",
+	"description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library",
+	"zap": true,
+	"topics": ["Rendering"]
+}
