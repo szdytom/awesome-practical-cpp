@@ -1,0 +1,6 @@
+{
+	"path": "flashlight/flashlight",
+	"description": "A C++ standalone library for machine learning",
+	"zap": false,
+	"topics": ["Machine Learning"]
+}

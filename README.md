@@ -17,6 +17,7 @@ Please feel free to open a PR and add things to the list!
 	- [CLI](#cli)
 	- [Database](#database)
 	- [Debugging](#debugging)
+	- [Embedded](#embedded)
 	- [Formatting](#formatting)
 	- [GUI](#gui)
 	- [Game Utility](#game-utility)
@@ -49,6 +50,11 @@ Please feel free to open a PR and add things to the list!
 
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro):  A single-header dbg(…) macro for C++ ![stars](https://img.shields.io/github/stars/sharkdp/dbg-macro?style=flat-square) ![license](https://img.shields.io/github/license/sharkdp/dbg-macro?style=flat-square)
 
+## Embedded
+
+- [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson): Simple and efficient JSON library for Arduino and embedded C++ ![stars](https://img.shields.io/github/stars/bblanchon/ArduinoJson?style=flat-square) ![license](https://img.shields.io/github/license/bblanchon/ArduinoJson?style=flat-square)
+- [idea4good/GuiLite](https://github.com/idea4good/GuiLite): The smallest header-only GUI library(4 KLOC) for all platforms ![stars](https://img.shields.io/github/stars/idea4good/GuiLite?style=flat-square) ![license](https://img.shields.io/github/license/idea4good/GuiLite?style=flat-square)
+
 ## Formatting
 
 - [fmtlib/fmt](https://github.com/fmtlib/fmt): :zap: A modern formatting library ![stars](https://img.shields.io/github/stars/fmtlib/fmt?style=flat-square) ![license](https://img.shields.io/github/license/fmtlib/fmt?style=flat-square)
@@ -56,11 +62,13 @@ Please feel free to open a PR and add things to the list!
 ## GUI
 
 - [GNOME/gtkmm](https://github.com/GNOME/gtkmm): The official C++ interface for the popular GUI library GTK+ ![stars](https://img.shields.io/github/stars/GNOME/gtkmm?style=flat-square) ![license](https://img.shields.io/github/license/GNOME/gtkmm?style=flat-square)
+- [idea4good/GuiLite](https://github.com/idea4good/GuiLite): The smallest header-only GUI library(4 KLOC) for all platforms ![stars](https://img.shields.io/github/stars/idea4good/GuiLite?style=flat-square) ![license](https://img.shields.io/github/license/idea4good/GuiLite?style=flat-square)
 - [ocornut/imgui](https://github.com/ocornut/imgui): :zap: Bloat-free Graphical User interface for C++ with minimal dependencies ![stars](https://img.shields.io/github/stars/ocornut/imgui?style=flat-square) ![license](https://img.shields.io/github/license/ocornut/imgui?style=flat-square)
 
 ## Game Utility
 
 - [erincatto/Box2D](https://github.com/erincatto/Box2D): Box2D is a 2D physics engine for games ![stars](https://img.shields.io/github/stars/erincatto/Box2D?style=flat-square) ![license](https://img.shields.io/github/license/erincatto/Box2D?style=flat-square)
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics): A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications ![stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics?style=flat-square) ![license](https://img.shields.io/github/license/jrouwe/JoltPhysics?style=flat-square)
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy): A header-only Python interpreter for game scripting in Modern C++ ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
 - [skypjack/entt](https://github.com/skypjack/entt): :zap: Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more ![stars](https://img.shields.io/github/stars/skypjack/entt?style=flat-square) ![license](https://img.shields.io/github/license/skypjack/entt?style=flat-square)
 - [ThePhD/sol2](https://github.com/ThePhD/sol2): a C++ <-> Lua API wrapper with advanced features and top notch performance ![stars](https://img.shields.io/github/stars/ThePhD/sol2?style=flat-square) ![license](https://img.shields.io/github/license/ThePhD/sol2?style=flat-square)
@@ -69,6 +77,7 @@ Please feel free to open a PR and add things to the list!
 
 - [davisking/dlib](https://github.com/davisking/dlib): :zap: A toolkit for making real world machine learning and data analysis applications in C++ ![stars](https://img.shields.io/github/stars/davisking/dlib?style=flat-square) ![license](https://img.shields.io/github/license/davisking/dlib?style=flat-square)
 - [opencv/opencv](https://github.com/opencv/opencv): :zap: Open Source Computer Vision Library ![stars](https://img.shields.io/github/stars/opencv/opencv?style=flat-square) ![license](https://img.shields.io/github/license/opencv/opencv?style=flat-square)
+- [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl): A standalone, large scale, open project for 2D/3D image and point cloud processing ![stars](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=flat-square) ![license](https://img.shields.io/github/license/PointCloudLibrary/pcl?style=flat-square)
 
 ## Internationalization
 
@@ -76,6 +85,7 @@ Please feel free to open a PR and add things to the list!
 
 ## JSON
 
+- [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson): Simple and efficient JSON library for Arduino and embedded C++ ![stars](https://img.shields.io/github/stars/bblanchon/ArduinoJson?style=flat-square) ![license](https://img.shields.io/github/license/bblanchon/ArduinoJson?style=flat-square)
 - [nlohmann/json](https://github.com/nlohmann/json): :zap: JSON for Modern C++ ![stars](https://img.shields.io/github/stars/nlohmann/json?style=flat-square) ![license](https://img.shields.io/github/license/nlohmann/json?style=flat-square)
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson): :zap: A fast JSON parser/generator for C++ with both SAX/DOM style API ![stars](https://img.shields.io/github/stars/Tencent/rapidjson?style=flat-square) ![license](https://img.shields.io/github/license/Tencent/rapidjson?style=flat-square)
 
@@ -86,11 +96,14 @@ Please feel free to open a PR and add things to the list!
 ## Machine Learning
 
 - [davisking/dlib](https://github.com/davisking/dlib): :zap: A toolkit for making real world machine learning and data analysis applications in C++ ![stars](https://img.shields.io/github/stars/davisking/dlib?style=flat-square) ![license](https://img.shields.io/github/license/davisking/dlib?style=flat-square)
+- [flashlight/flashlight](https://github.com/flashlight/flashlight): A C++ standalone library for machine learning ![stars](https://img.shields.io/github/stars/flashlight/flashlight?style=flat-square) ![license](https://img.shields.io/github/license/flashlight/flashlight?style=flat-square)
 
 ## Math
 
+- [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire): A general-purpose tensor library that simplifies the software development process for the parallel architectures found in CPUs, GPUs, and other hardware acceleration devices ![stars](https://img.shields.io/github/stars/arrayfire/arrayfire?style=flat-square) ![license](https://img.shields.io/github/license/arrayfire/arrayfire?style=flat-square)
 - [davisking/dlib](https://github.com/davisking/dlib): :zap: A toolkit for making real world machine learning and data analysis applications in C++ ![stars](https://img.shields.io/github/stars/davisking/dlib?style=flat-square) ![license](https://img.shields.io/github/license/davisking/dlib?style=flat-square)
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp):  C++ implementation of the Python Numpy library  ![stars](https://img.shields.io/github/stars/dpilger26/NumCpp?style=flat-square) ![license](https://img.shields.io/github/license/dpilger26/NumCpp?style=flat-square)
+- [g-truc/glm](https://github.com/g-truc/glm): :zap: OpenGL Mathematics ![stars](https://img.shields.io/github/stars/g-truc/glm?style=flat-square) ![license](https://img.shields.io/github/license/g-truc/glm?style=flat-square)
 
 ## Multimedia
 
@@ -100,6 +113,8 @@ Please feel free to open a PR and add things to the list!
 
 - [boostorg/asio](https://github.com/boostorg/asio): A cross-platform C++ library for network and low-level I/O programming ![stars](https://img.shields.io/github/stars/boostorg/asio?style=flat-square) ![license](https://img.shields.io/github/license/boostorg/asio?style=flat-square)
 - [boostorg/beast](https://github.com/boostorg/beast): HTTP and WebSocket built on Boost.Asio in C++11 ![stars](https://img.shields.io/github/stars/boostorg/beast?style=flat-square) ![license](https://img.shields.io/github/license/boostorg/beast?style=flat-square)
+- [CrowCpp/Crow](https://github.com/CrowCpp/Crow): A Fast and Easy to use microframework for the web ![stars](https://img.shields.io/github/stars/CrowCpp/Crow?style=flat-square) ![license](https://img.shields.io/github/license/CrowCpp/Crow?style=flat-square)
+- [libcpr/cpr](https://github.com/libcpr/cpr): C++ Requests: Curl for People, a spiritual port of Python Requests ![stars](https://img.shields.io/github/stars/libcpr/cpr?style=flat-square) ![license](https://img.shields.io/github/license/libcpr/cpr?style=flat-square)
 - [pocoproject/poco](https://github.com/pocoproject/poco): A Powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems ![stars](https://img.shields.io/github/stars/pocoproject/poco?style=flat-square) ![license](https://img.shields.io/github/license/pocoproject/poco?style=flat-square)
 - [sogou/workflow](https://github.com/sogou/workflow): :zap: C++ Parallel Computing and Asynchronous Networking Framework ![stars](https://img.shields.io/github/stars/sogou/workflow?style=flat-square) ![license](https://img.shields.io/github/license/sogou/workflow?style=flat-square)
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets): :zap: Simple, secure & standards compliant web server for the most demanding of applications ![stars](https://img.shields.io/github/stars/uNetworking/uWebSockets?style=flat-square) ![license](https://img.shields.io/github/license/uNetworking/uWebSockets?style=flat-square)
@@ -107,6 +122,7 @@ Please feel free to open a PR and add things to the list!
 ## Physics
 
 - [erincatto/Box2D](https://github.com/erincatto/Box2D): Box2D is a 2D physics engine for games ![stars](https://img.shields.io/github/stars/erincatto/Box2D?style=flat-square) ![license](https://img.shields.io/github/license/erincatto/Box2D?style=flat-square)
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics): A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications ![stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics?style=flat-square) ![license](https://img.shields.io/github/license/jrouwe/JoltPhysics?style=flat-square)
 
 ## Reflection
 

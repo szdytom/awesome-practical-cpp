@@ -1,0 +1,6 @@
+{
+	"path": "libcpr/cpr",
+	"description": "C++ Requests: Curl for People, a spiritual port of Python Requests",
+	"zap": false,
+	"topics": ["Networking"]
+}
