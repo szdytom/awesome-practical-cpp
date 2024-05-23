@@ -1,4 +1,4 @@
-# Awesome Practical C++
+# Awesome Practical C++ [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A filtered list of the most practical and recognized C++ frameworks and libraries that are production ready...
 
@@ -9,7 +9,7 @@ Finding a suitable library from [fffaraz/awesome-cpp](https://github.com/fffaraz
 3. ...is still been maintained/developed (commited recently)
 4. ...is ready for use (not WIP)
 5. ...is wrote in C++ or has a *friendly* C++ API
-6. ...is open-source and hosted(at least mirrored) on Github.
+6. ...is open-source and hosted(at least mirrored) on GitHub.
 
 Please feel free to open a PR and add things to the list!
 

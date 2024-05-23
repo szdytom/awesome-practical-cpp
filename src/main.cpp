@@ -88,7 +88,7 @@ struct Repository {
 
 	std::string to_markdown() const noexcept {
 		// e.g. [path](url): :zap: description star-badge license-badge
-		return fmt::format("- [{}]({}):{} {} ![stars]({}) ![license]({})", path(), repo_url(), zap ? " :zap:" : "", description, star_badge_url(), license_badge_url());
+		return fmt::format("- [{}]({}){} - {}. ![stars]({}) ![license]({})", path(), repo_url(), zap ? " :zap:" : "", description, star_badge_url(), license_badge_url());
 	}
 
 	// Move constructors
@@ -157,6 +157,8 @@ struct TopicList {
 
 	std::string build_toc() const {
 		std::string toc;
+
+		toc += "## Contents\n\n";
 
 		toc += "- [Awesome Practical C++](#awesome-practical-c--)\n";
 		for (const auto& [name, topic] : topics) {
