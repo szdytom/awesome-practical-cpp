@@ -1,0 +1,6 @@
+{
+	"path": "uNetworking/uWebSockets",
+	"description": "Simple, secure & standards compliant web server for the most demanding of applications",
+	"zap": true,
+	"topics": ["Networking"]
+}

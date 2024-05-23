@@ -1,6 +1,6 @@
 {
-	"path": "SFML/SFML",
-	"description": "LevelDB is a fast key-value storage library that provides an ordered mapping from string keys to string values",
+	"path": "google/leveldb",
+	"description": "A fast key-value storage library that provides an ordered mapping from string keys to string values",
 	"zap": true,
 	"topics": ["Database"]
 }

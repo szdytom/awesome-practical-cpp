@@ -29,8 +29,10 @@ Please feel free to open a PR and add things to the list!
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
 	- [Physics](#physics)
+	- [Reflection](#reflection)
 	- [Rendering](#rendering)
 	- [Scripting](#scripting)
+	- [Serialization](#serialization)
 	- [TUI](#tui)
 	- [Unit Testing](#unit-testing)
 	- [XML](#xml)
@@ -41,7 +43,7 @@ Please feel free to open a PR and add things to the list!
 
 ## Database
 
-- [SFML/SFML](https://github.com/SFML/SFML): :zap: LevelDB is a fast key-value storage library that provides an ordered mapping from string keys to string values ![stars](https://img.shields.io/github/stars/SFML/SFML?style=flat-square) ![license](https://img.shields.io/github/license/SFML/SFML?style=flat-square)
+- [google/leveldb](https://github.com/google/leveldb): :zap: A fast key-value storage library that provides an ordered mapping from string keys to string values ![stars](https://img.shields.io/github/stars/google/leveldb?style=flat-square) ![license](https://img.shields.io/github/license/google/leveldb?style=flat-square)
 
 ## Debugging
 
@@ -100,10 +102,15 @@ Please feel free to open a PR and add things to the list!
 - [boostorg/beast](https://github.com/boostorg/beast): HTTP and WebSocket built on Boost.Asio in C++11 ![stars](https://img.shields.io/github/stars/boostorg/beast?style=flat-square) ![license](https://img.shields.io/github/license/boostorg/beast?style=flat-square)
 - [pocoproject/poco](https://github.com/pocoproject/poco): A Powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems ![stars](https://img.shields.io/github/stars/pocoproject/poco?style=flat-square) ![license](https://img.shields.io/github/license/pocoproject/poco?style=flat-square)
 - [sogou/workflow](https://github.com/sogou/workflow): :zap: C++ Parallel Computing and Asynchronous Networking Framework ![stars](https://img.shields.io/github/stars/sogou/workflow?style=flat-square) ![license](https://img.shields.io/github/license/sogou/workflow?style=flat-square)
+- [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets): :zap: Simple, secure & standards compliant web server for the most demanding of applications ![stars](https://img.shields.io/github/stars/uNetworking/uWebSockets?style=flat-square) ![license](https://img.shields.io/github/license/uNetworking/uWebSockets?style=flat-square)
 
 ## Physics
 
 - [erincatto/Box2D](https://github.com/erincatto/Box2D): Box2D is a 2D physics engine for games ![stars](https://img.shields.io/github/stars/erincatto/Box2D?style=flat-square) ![license](https://img.shields.io/github/license/erincatto/Box2D?style=flat-square)
+
+## Reflection
+
+- [Neargye/magic_enum](https://github.com/Neargye/magic_enum): Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code ![stars](https://img.shields.io/github/stars/Neargye/magic_enum?style=flat-square) ![license](https://img.shields.io/github/license/Neargye/magic_enum?style=flat-square)
 
 ## Rendering
 
@@ -114,6 +121,12 @@ Please feel free to open a PR and add things to the list!
 
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy): A header-only Python interpreter for game scripting in Modern C++ ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
 - [ThePhD/sol2](https://github.com/ThePhD/sol2): a C++ <-> Lua API wrapper with advanced features and top notch performance ![stars](https://img.shields.io/github/stars/ThePhD/sol2?style=flat-square) ![license](https://img.shields.io/github/license/ThePhD/sol2?style=flat-square)
+
+## Serialization
+
+- [google/flatbuffers](https://github.com/google/flatbuffers): :zap: A cross platform serialization library architected for maximum memory efficiency ![stars](https://img.shields.io/github/stars/google/flatbuffers?style=flat-square) ![license](https://img.shields.io/github/license/google/flatbuffers?style=flat-square)
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): :zap: A language-neutral, platform-neutral, extensible mechanism for serializing structured data ![stars](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square) ![license](https://img.shields.io/github/license/protocolbuffers/protobuf?style=flat-square)
+- [USCiLab/cereal](https://github.com/USCiLab/cereal): A C++11 library for serialization ![stars](https://img.shields.io/github/stars/USCiLab/cereal?style=flat-square) ![license](https://img.shields.io/github/license/USCiLab/cereal?style=flat-square)
 
 ## TUI
 
@@ -138,7 +151,7 @@ For repository `owner/name`, create a file named `owner.name.json` with the foll
 ```js
 {
 	"path": "owner/name",
-	"description: "",
+	"description": "",
 	"zap": true,
 	"topics": ["Topic Name"]
 }

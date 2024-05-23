@@ -1,0 +1,6 @@
+{
+	"path": "google/flatbuffers",
+	"description": "A cross platform serialization library architected for maximum memory efficiency",
+	"zap": true,
+	"topics": ["Serialization"]
+}
