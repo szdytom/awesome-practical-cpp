@@ -1,0 +1,6 @@
+{
+	"path": "skypjack/entt",
+	"description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+	"zap": true,
+	"topics": ["Game Utility"]
+}

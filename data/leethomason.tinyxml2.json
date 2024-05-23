@@ -1,0 +1,6 @@
+{
+	"path": "leethomason/tinyxml2",
+	"description": "A simple, small, efficient, C++ XML parser that can be easily integrated",
+	"zap": false,
+	"topics": ["XML"]
+}

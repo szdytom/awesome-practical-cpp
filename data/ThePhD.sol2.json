@@ -1,0 +1,6 @@
+{
+	"path": "ThePhD/sol2",
+	"description": "a C++ <-> Lua API wrapper with advanced features and top notch performance",
+	"zap": false,
+	"topics": ["Game Utility", "Scripting"]
+}

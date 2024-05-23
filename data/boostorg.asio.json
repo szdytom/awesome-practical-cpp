@@ -1,0 +1,6 @@
+{
+	"path": "boostorg/asio",
+	"description": "A cross-platform C++ library for network and low-level I/O programming",
+	"zap": false,
+	"topics": ["Networking"]
+}

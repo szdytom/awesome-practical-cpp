@@ -1,0 +1,6 @@
+{
+	"path": "fmtlib/fmt",
+	"description": "A modern formatting library",
+    "zap": true,
+	"topics": ["Formatting"]
+}
