@@ -10,6 +10,7 @@
 #include <map>
 #include <filesystem>
 #include <set>
+#include <algorithm>
 
 std::string title_to_anchor(std::string_view title) {
 	// Example: Awesome C++ -> awesome-c--
@@ -26,6 +27,11 @@ std::string title_to_anchor(std::string_view title) {
 	}
 
 	return anchor;
+}
+
+std::string string_to_lower(std::string str) {
+	std::transform(str.begin(), str.end(), str.begin(), [](unsigned char c) { return std::tolower(c); });
+	return str;
 }
 
 nlohmann::json read_json_file(std::string_view filename) {
@@ -94,18 +100,22 @@ struct Repository {
 	Repository& operator=(const Repository&) = default;
 
 	// Compare operator
+	// Compare by lower case
 	bool operator<(const Repository& other) const noexcept {
-		if (owner == other.owner) {
-			return name < other.name;
-		}
-		return owner < other.owner;
+		return string_to_lower(path()) < string_to_lower(other.path());
 	}
 };
 
+template <typename T>
+struct SharedPtrCompare {
+    bool operator()(const std::shared_ptr<T>& a, const std::shared_ptr<T>& b) const noexcept {
+        return *a < *b;
+    }
+};
 
 struct Topic {
 	std::string name;
-	std::set<std::shared_ptr<Repository>> repositories;
+	std::set<std::shared_ptr<Repository>, SharedPtrCompare<Repository>> repositories;
 
 	Topic(std::string_view name): name(name) {}
 

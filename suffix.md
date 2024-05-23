@@ -9,7 +9,7 @@ For repository `owner/name`, create a file named `owner.name.json` with the foll
 ```js
 {
 	"path": "owner/name",
-	"description: "",
+	"description": "",
 	"zap": true,
 	"topics": ["Topic Name"]
 }
