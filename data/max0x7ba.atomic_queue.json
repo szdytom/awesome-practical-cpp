@@ -1,0 +1,6 @@
+{
+	"path": "max0x7ba/atomic_queue",
+	"description": "C++14 multiple-producer-multiple-consumer lock-free queues",
+	"zap": false,
+	"topics": ["Concurrency"]
+}
