@@ -2,5 +2,5 @@
 	"path": "arrayfire/arrayfire",
 	"description": "A general-purpose tensor library that simplifies the software development process for the parallel architectures found in CPUs, GPUs, and other hardware acceleration devices",
 	"zap": false,
-	"topics": ["Math"]
+	"topics": ["Math", "GPU"]
 }

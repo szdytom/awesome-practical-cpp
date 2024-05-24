@@ -17,10 +17,12 @@ Please feel free to open a PR and add things to the list!
 
 - [Awesome Practical C++](#awesome-practical-c--)
 	- [CLI](#cli)
+	- [Concurrency](#concurrency)
 	- [Database](#database)
 	- [Debugging](#debugging)
 	- [Embedded](#embedded)
 	- [Formatting](#formatting)
+	- [GPU](#gpu)
 	- [GUI](#gui)
 	- [Game Utility](#game-utility)
 	- [Image Processing](#image-processing)
@@ -44,6 +46,11 @@ Please feel free to open a PR and add things to the list!
 
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - A header-only argument parser for Modern C++. ![stars](https://img.shields.io/github/stars/p-ranav/argparse?style=flat-square) ![license](https://img.shields.io/github/license/p-ranav/argparse?style=flat-square)
 
+## Concurrency
+
+- [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp) - Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all. ![stars](https://img.shields.io/github/stars/David-Haim/concurrencpp?style=flat-square) ![license](https://img.shields.io/github/license/David-Haim/concurrencpp?style=flat-square)
+- [netcan/asyncio](https://github.com/netcan/asyncio) - A C++20 library to write concurrent code using the async/await syntax. ![stars](https://img.shields.io/github/stars/netcan/asyncio?style=flat-square) ![license](https://img.shields.io/github/license/netcan/asyncio?style=flat-square)
+
 ## Database
 
 - [google/leveldb](https://github.com/google/leveldb) :zap: - A fast key-value storage library that provides an ordered mapping from string keys to string values. ![stars](https://img.shields.io/github/stars/google/leveldb?style=flat-square) ![license](https://img.shields.io/github/license/google/leveldb?style=flat-square)
@@ -60,6 +67,10 @@ Please feel free to open a PR and add things to the list!
 ## Formatting
 
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) :zap: - A modern formatting library. ![stars](https://img.shields.io/github/stars/fmtlib/fmt?style=flat-square) ![license](https://img.shields.io/github/license/fmtlib/fmt?style=flat-square)
+
+## GPU
+
+- [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - A general-purpose tensor library that simplifies the software development process for the parallel architectures found in CPUs, GPUs, and other hardware acceleration devices. ![stars](https://img.shields.io/github/stars/arrayfire/arrayfire?style=flat-square) ![license](https://img.shields.io/github/license/arrayfire/arrayfire?style=flat-square)
 
 ## GUI
 
@@ -119,6 +130,7 @@ Please feel free to open a PR and add things to the list!
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11. ![stars](https://img.shields.io/github/stars/boostorg/beast?style=flat-square) ![license](https://img.shields.io/github/license/boostorg/beast?style=flat-square)
 - [CrowCpp/Crow](https://github.com/CrowCpp/Crow) - A Fast and Easy to use microframework for the web. ![stars](https://img.shields.io/github/stars/CrowCpp/Crow?style=flat-square) ![license](https://img.shields.io/github/license/CrowCpp/Crow?style=flat-square)
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests. ![stars](https://img.shields.io/github/stars/libcpr/cpr?style=flat-square) ![license](https://img.shields.io/github/license/libcpr/cpr?style=flat-square)
+- [netcan/asyncio](https://github.com/netcan/asyncio) - A C++20 library to write concurrent code using the async/await syntax. ![stars](https://img.shields.io/github/stars/netcan/asyncio?style=flat-square) ![license](https://img.shields.io/github/license/netcan/asyncio?style=flat-square)
 - [pocoproject/poco](https://github.com/pocoproject/poco) - A Powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems. ![stars](https://img.shields.io/github/stars/pocoproject/poco?style=flat-square) ![license](https://img.shields.io/github/license/pocoproject/poco?style=flat-square)
 - [sogou/workflow](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Framework. ![stars](https://img.shields.io/github/stars/sogou/workflow?style=flat-square) ![license](https://img.shields.io/github/license/sogou/workflow?style=flat-square)
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) :zap: - Simple, secure & standards compliant web server for the most demanding of applications. ![stars](https://img.shields.io/github/stars/uNetworking/uWebSockets?style=flat-square) ![license](https://img.shields.io/github/license/uNetworking/uWebSockets?style=flat-square)
