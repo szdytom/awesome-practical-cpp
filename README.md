@@ -50,6 +50,7 @@ Please feel free to open a PR and add things to the list!
 
 - [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp) - Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all. ![stars](https://img.shields.io/github/stars/David-Haim/concurrencpp?style=flat-square) ![license](https://img.shields.io/github/license/David-Haim/concurrencpp?style=flat-square)
 - [netcan/asyncio](https://github.com/netcan/asyncio) - A C++20 library to write concurrent code using the async/await syntax. ![stars](https://img.shields.io/github/stars/netcan/asyncio?style=flat-square) ![license](https://img.shields.io/github/license/netcan/asyncio?style=flat-square)
+- [taskflow/taskflow](https://github.com/taskflow/taskflow) :zap: - A general-purpose parallel and heterogeneous task programming system. ![stars](https://img.shields.io/github/stars/taskflow/taskflow?style=flat-square) ![license](https://img.shields.io/github/license/taskflow/taskflow?style=flat-square)
 
 ## Database
 
