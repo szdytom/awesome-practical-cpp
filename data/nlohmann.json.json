@@ -1,6 +1,6 @@
 {
 	"path": "nlohmann/json",
 	"description": "JSON for Modern C++",
-	"zap": true,
+	"icon": "zap",
 	"topics": ["JSON"]
 }

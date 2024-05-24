@@ -1,6 +1,6 @@
 {
 	"path": "David-Haim/concurrencpp",
 	"description": "Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all",
-	"zap": false,
+	"icon": "construction",
 	"topics": ["Concurrency"]
 }

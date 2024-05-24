@@ -1,6 +1,6 @@
 {
 	"path": "boostorg/beast",
 	"description": "HTTP and WebSocket built on Boost.Asio in C++11",
-	"zap": false,
+	"icon": "",
 	"topics": ["Networking"]
 }

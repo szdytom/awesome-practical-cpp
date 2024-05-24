@@ -1,6 +1,6 @@
 {
 	"path": "bblanchon/ArduinoJson",
 	"description": "Simple and efficient JSON library for Arduino and embedded C++",
-	"zap": false,
+	"icon": "",
 	"topics": ["JSON", "Embedded"]
 }

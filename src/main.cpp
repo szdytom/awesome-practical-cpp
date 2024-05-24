@@ -46,13 +46,41 @@ nlohmann::json read_json_file(std::string_view filename) {
 	return json;
 }
 
+enum class EmojiIcon {
+	NONE,
+	ZAP,
+	CONSTRUCTION,
+};
+
+EmojiIcon parse_icon(std::string_view icon) {
+	if (icon == "zap") {
+        return EmojiIcon::ZAP;
+    } else if (icon == "construction") {
+        return EmojiIcon::CONSTRUCTION;
+    } else if (icon.empty()) {
+        return EmojiIcon::NONE;
+    }
+	throw std::runtime_error(fmt::format("Invalid icon: {}", icon));
+}
+
+std::string icon_to_string(EmojiIcon icon) {
+    switch (icon) {
+        case EmojiIcon::ZAP:
+            return " :zap:";
+        case EmojiIcon::CONSTRUCTION:
+            return " :construction:";
+        default:
+            return "";
+    }
+}
+
 struct Repository {
 	std::string owner, name;
 	std::string description;
-	bool zap; // true if the repository has a :zap: tag
+	EmojiIcon icon;
 
-	Repository(std::string_view path, std::string_view description, bool zap):
-		description(description), zap(zap) {
+	Repository(std::string_view path, std::string_view description, std::string_view icon):
+		description(description), icon(parse_icon(icon)) {
 		// parse path (owner/name)
 		auto pos = path.find('/');
 		if (pos == std::string_view::npos) {
@@ -65,9 +93,9 @@ struct Repository {
 	static Repository from_json(const nlohmann::json& json) {
 		std::string path = json["path"];
 		std::string description = json["description"];
-		bool zap = json["zap"];
+		std::string icon = json["icon"];
 
-		return Repository(std::move(path), std::move(description), zap);
+		return Repository(std::move(path), std::move(description), std::move(icon));
 	}
 
 	std::string path() const noexcept {
@@ -87,8 +115,8 @@ struct Repository {
 	}
 
 	std::string to_markdown() const noexcept {
-		// e.g. [path](url): :zap: description star-badge license-badge
-		return fmt::format("- [{}]({}){} - {}. ![stars]({}) ![license]({})", path(), repo_url(), zap ? " :zap:" : "", description, star_badge_url(), license_badge_url());
+		// e.g. [path](url) :icon: - description star-badge license-badge
+		return fmt::format("- [{}]({}){} - {}. ![stars]({}) ![license]({})", path(), repo_url(), icon_to_string(icon), description, star_badge_url(), license_badge_url());
 	}
 
 	// Move constructors

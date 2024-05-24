@@ -1,6 +1,6 @@
 {
 	"path": "protocolbuffers/protobuf",
 	"description": "A language-neutral, platform-neutral, extensible mechanism for serializing structured data",
-	"zap": true,
+	"icon": "zap",
 	"topics": ["Serialization"]
 }

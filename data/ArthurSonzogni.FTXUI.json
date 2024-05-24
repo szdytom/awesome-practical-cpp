@@ -1,6 +1,6 @@
 {
 	"path": "ArthurSonzogni/FTXUI",
 	"description": "A simple cross-platform C++ library for terminal based user interfaces",
-	"zap": false,
+	"icon": "",
 	"topics": ["TUI"]
 }

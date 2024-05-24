@@ -1,6 +1,6 @@
 {
 	"path": "CrowCpp/Crow",
 	"description": "A Fast and Easy to use microframework for the web",
-	"zap": false,
+	"icon": "",
 	"topics": ["Networking"]
 }

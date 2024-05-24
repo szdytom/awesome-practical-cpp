@@ -1,6 +1,6 @@
 {
 	"path": "libsdl-org/SDL",
 	"description": "Simple Directmedia Layer",
-	"zap": false,
+	"icon": "",
 	"topics": ["Multimedia", "Rendering"]
 }

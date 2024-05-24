@@ -1,6 +1,6 @@
 {
 	"path": "idea4good/GuiLite",
 	"description": "The smallest header-only GUI library(4 KLOC) for all platforms",
-	"zap": false,
+	"icon": "",
 	"topics": ["GUI", "Embedded"]
 }

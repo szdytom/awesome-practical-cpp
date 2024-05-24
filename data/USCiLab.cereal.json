@@ -1,6 +1,6 @@
 {
 	"path": "USCiLab/cereal",
 	"description": "A C++11 library for serialization",
-	"zap": false,
+	"icon": "",
 	"topics": ["Serialization"]
 }

@@ -1,6 +1,6 @@
 {
 	"path": "p-ranav/argparse",
 	"description": "A header-only argument parser for Modern C++",
-	"zap": false,
+	"icon": "",
 	"topics": ["CLI"]
 }

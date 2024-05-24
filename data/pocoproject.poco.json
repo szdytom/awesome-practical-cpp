@@ -1,6 +1,6 @@
 {
 	"path": "pocoproject/poco",
 	"description": "A Powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems",
-	"zap": false,
+	"icon": "",
 	"topics": ["Networking"]
 }

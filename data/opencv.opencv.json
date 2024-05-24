@@ -1,6 +1,6 @@
 {
 	"path": "opencv/opencv",
 	"description": "Open Source Computer Vision Library",
-    "zap": true,
+    "icon": "zap",
 	"topics": ["Image Processing"]
 }

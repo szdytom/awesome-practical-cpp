@@ -1,6 +1,6 @@
 {
 	"path": "netcan/asyncio",
 	"description": "A C++20 library to write concurrent code using the async/await syntax",
-	"zap": false,
+	"icon": "construction",
 	"topics": ["Concurrency", "Networking"]
 }

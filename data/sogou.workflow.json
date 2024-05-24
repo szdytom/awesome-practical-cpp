@@ -1,6 +1,6 @@
 {
 	"path": "sogou/workflow",
 	"description": "C++ Parallel Computing and Asynchronous Networking Framework",
-	"zap": true,
+	"icon": "zap",
 	"topics": ["Networking"]
 }

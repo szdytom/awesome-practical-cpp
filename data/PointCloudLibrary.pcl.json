@@ -1,6 +1,6 @@
 {
 	"path": "PointCloudLibrary/pcl",
 	"description": "A standalone, large scale, open project for 2D/3D image and point cloud processing",
-    "zap": false,
+    "icon": "",
 	"topics": ["Image Processing"]
 }

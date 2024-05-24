@@ -1,6 +1,6 @@
 {
 	"path": "sharkdp/dbg-macro",
 	"description": " A single-header dbg(…) macro for C++",
-	"zap": false,
+	"icon": "",
 	"topics": ["Debugging"]
 }

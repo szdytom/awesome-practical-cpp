@@ -1,6 +1,6 @@
 {
 	"path": "google/leveldb",
 	"description": "A fast key-value storage library that provides an ordered mapping from string keys to string values",
-	"zap": true,
+	"icon": "zap",
 	"topics": ["Database"]
 }

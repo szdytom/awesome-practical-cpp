@@ -1,6 +1,6 @@
 {
 	"path": "SFML/SFML",
 	"description": "Simple and Fast Multimedia Library",
-	"zap": true,
+	"icon": "zap",
 	"topics": ["Multimedia", "Rendering"]
 }

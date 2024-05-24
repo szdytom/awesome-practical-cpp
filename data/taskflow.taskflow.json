@@ -1,6 +1,6 @@
 {
 	"path": "taskflow/taskflow",
 	"description": "A general-purpose parallel and heterogeneous task programming system",
-    "zap": true,
+    "icon": "zap",
 	"topics": ["Concurrency"]
 }

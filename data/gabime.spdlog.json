@@ -1,6 +1,6 @@
 {
 	"path": "gabime/spdlog",
 	"description": "Fast C++ logging library",
-	"zap": true,
+	"icon": "zap",
 	"topics": ["Logging"]
 }

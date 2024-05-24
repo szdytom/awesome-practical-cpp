@@ -1,6 +1,6 @@
 {
 	"path": "erincatto/Box2D",
 	"description": "Box2D is a 2D physics engine for games",
-	"zap": false,
+	"icon": "",
 	"topics": ["Physics", "Game Utility"]
 }
