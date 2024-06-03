@@ -1,6 +1,6 @@
 # Awesome Practical C++ [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A filtered list of the most practical and recognized C++ frameworks and libraries that are production ready...
+A choice list of the most practical and recognized C++ frameworks and libraries that are production ready...
 
 Finding a suitable library from [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) can be maddening -- there are so many repositories listed, some of them have been abandoned for years, some of them are just toys instead, true treasure was buried in tons of other stuffs. In this repository, I'd like to list repository which:
 
