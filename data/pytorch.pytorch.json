@@ -1,0 +1,6 @@
+{
+	"path": "pytorch/pytorch",
+	"description": "The PyTorch C++ frontend is a pure C++ interface to the PyTorch machine learning framework",
+	"icon": "zap",
+	"topics": ["Machine Learning"]
+}

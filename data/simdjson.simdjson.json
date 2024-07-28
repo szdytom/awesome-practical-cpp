@@ -1,0 +1,6 @@
+{
+	"path": "simdjson/simdjson",
+	"description": "Parsing gigabytes of JSON per second",
+	"icon": "zap",
+	"topics": ["JSON"]
+}

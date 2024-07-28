@@ -103,6 +103,7 @@ Please feel free to open a PR and add things to the list!
 
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - Simple and efficient JSON library for Arduino and embedded C++. ![stars](https://img.shields.io/github/stars/bblanchon/ArduinoJson?style=flat-square) ![license](https://img.shields.io/github/license/bblanchon/ArduinoJson?style=flat-square)
 - [nlohmann/json](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. ![stars](https://img.shields.io/github/stars/nlohmann/json?style=flat-square) ![license](https://img.shields.io/github/license/nlohmann/json?style=flat-square)
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) :zap: - Parsing gigabytes of JSON per second. ![stars](https://img.shields.io/github/stars/simdjson/simdjson?style=flat-square) ![license](https://img.shields.io/github/license/simdjson/simdjson?style=flat-square)
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. ![stars](https://img.shields.io/github/stars/Tencent/rapidjson?style=flat-square) ![license](https://img.shields.io/github/license/Tencent/rapidjson?style=flat-square)
 
 ## Logging
@@ -113,6 +114,7 @@ Please feel free to open a PR and add things to the list!
 
 - [davisking/dlib](https://github.com/davisking/dlib) :zap: - A toolkit for making real world machine learning and data analysis applications in C++. ![stars](https://img.shields.io/github/stars/davisking/dlib?style=flat-square) ![license](https://img.shields.io/github/license/davisking/dlib?style=flat-square)
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning. ![stars](https://img.shields.io/github/stars/flashlight/flashlight?style=flat-square) ![license](https://img.shields.io/github/license/flashlight/flashlight?style=flat-square)
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) :zap: - The PyTorch C++ frontend is a pure C++ interface to the PyTorch machine learning framework. ![stars](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square) ![license](https://img.shields.io/github/license/pytorch/pytorch?style=flat-square)
 
 ## Math
 
