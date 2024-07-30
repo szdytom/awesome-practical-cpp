@@ -11,7 +11,7 @@ Finding a suitable library from [fffaraz/awesome-cpp](https://github.com/fffaraz
 5. ...is wrote in C++ or has a *friendly* C++ API
 6. ...is open-source and hosted(at least mirrored) on GitHub.
 
-Note: a few interesting and potential repositories that don't have 2K stars or still in active development is in the list with a :construction: mark,still it's OK to use them in personal hobby projects.
+Note: a few interesting and potential repositories that don't have 2K stars or still in active development is in the list with a :construction: mark, still it's OK to use them in personal hobby projects.
 
 Please feel free to open a PR and add things to the list!
 
