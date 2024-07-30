@@ -2,5 +2,5 @@
 	"path": "davisking/dlib",
 	"description": "A toolkit for making real world machine learning and data analysis applications in C++",
 	"icon": "zap",
-	"topics": ["Machine Learning", "Image Processing", "Math"]
+	"topics": ["Machine Learning", "Image Processing"]
 }

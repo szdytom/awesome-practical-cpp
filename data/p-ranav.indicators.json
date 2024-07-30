@@ -2,5 +2,5 @@
 	"path": "p-ranav/indicators",
 	"description": "Activity Indicators for Modern C++",
 	"icon": "",
-	"topics": ["Terminal"]
+	"topics": ["CLI"]
 }

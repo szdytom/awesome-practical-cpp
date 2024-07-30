@@ -40,13 +40,14 @@ Please feel free to open a PR and add things to the list!
 	- [Rendering](#rendering)
 	- [Scripting](#scripting)
 	- [Serialization](#serialization)
-	- [Terminal](#terminal)
+	- [TUI](#tui)
 	- [Unit Testing](#unit-testing)
 	- [XML](#xml)
 
 ## CLI
 
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - A header-only argument parser for Modern C++. ![stars](https://img.shields.io/github/stars/p-ranav/argparse?style=flat-square) ![license](https://img.shields.io/github/license/p-ranav/argparse?style=flat-square)
+- [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++. ![stars](https://img.shields.io/github/stars/p-ranav/indicators?style=flat-square) ![license](https://img.shields.io/github/license/p-ranav/indicators?style=flat-square)
 
 ## Concurrency
 
@@ -116,12 +117,12 @@ Please feel free to open a PR and add things to the list!
 
 - [davisking/dlib](https://github.com/davisking/dlib) :zap: - A toolkit for making real world machine learning and data analysis applications in C++. ![stars](https://img.shields.io/github/stars/davisking/dlib?style=flat-square) ![license](https://img.shields.io/github/license/davisking/dlib?style=flat-square)
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning. ![stars](https://img.shields.io/github/stars/flashlight/flashlight?style=flat-square) ![license](https://img.shields.io/github/license/flashlight/flashlight?style=flat-square)
+- [mlpack/mlpack](https://github.com/mlpack/mlpack) - A fast, header-only C++ machine learning library. ![stars](https://img.shields.io/github/stars/mlpack/mlpack?style=flat-square) ![license](https://img.shields.io/github/license/mlpack/mlpack?style=flat-square)
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) :zap: - The PyTorch C++ frontend is a pure C++ interface to the PyTorch machine learning framework. ![stars](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square) ![license](https://img.shields.io/github/license/pytorch/pytorch?style=flat-square)
 
 ## Math
 
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - A general-purpose tensor library that simplifies the software development process for the parallel architectures found in CPUs, GPUs, and other hardware acceleration devices. ![stars](https://img.shields.io/github/stars/arrayfire/arrayfire?style=flat-square) ![license](https://img.shields.io/github/license/arrayfire/arrayfire?style=flat-square)
-- [davisking/dlib](https://github.com/davisking/dlib) :zap: - A toolkit for making real world machine learning and data analysis applications in C++. ![stars](https://img.shields.io/github/stars/davisking/dlib?style=flat-square) ![license](https://img.shields.io/github/license/davisking/dlib?style=flat-square)
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) -  C++ implementation of the Python Numpy library . ![stars](https://img.shields.io/github/stars/dpilger26/NumCpp?style=flat-square) ![license](https://img.shields.io/github/license/dpilger26/NumCpp?style=flat-square)
 - [g-truc/glm](https://github.com/g-truc/glm) :zap: - OpenGL Mathematics. ![stars](https://img.shields.io/github/stars/g-truc/glm?style=flat-square) ![license](https://img.shields.io/github/license/g-truc/glm?style=flat-square)
 
@@ -168,10 +169,9 @@ Please feel free to open a PR and add things to the list!
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) :zap: - A language-neutral, platform-neutral, extensible mechanism for serializing structured data. ![stars](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square) ![license](https://img.shields.io/github/license/protocolbuffers/protobuf?style=flat-square)
 - [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. ![stars](https://img.shields.io/github/stars/USCiLab/cereal?style=flat-square) ![license](https://img.shields.io/github/license/USCiLab/cereal?style=flat-square)
 
-## Terminal
+## TUI
 
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - A simple cross-platform C++ library for terminal based user interfaces. ![stars](https://img.shields.io/github/stars/ArthurSonzogni/FTXUI?style=flat-square) ![license](https://img.shields.io/github/license/ArthurSonzogni/FTXUI?style=flat-square)
-- [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++. ![stars](https://img.shields.io/github/stars/p-ranav/indicators?style=flat-square) ![license](https://img.shields.io/github/license/p-ranav/indicators?style=flat-square)
 
 ## Unit Testing
 

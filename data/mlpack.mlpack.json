@@ -1,0 +1,7 @@
+{
+	"path": "mlpack/mlpack",
+	"description": "A fast, header-only C++ machine learning library",
+	"icon": "",
+	"topics": ["Machine Learning"]
+}
+
