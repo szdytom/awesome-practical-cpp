@@ -38,7 +38,7 @@ Please feel free to open a PR and add things to the list!
 	- [Rendering](#rendering)
 	- [Scripting](#scripting)
 	- [Serialization](#serialization)
-	- [TUI](#tui)
+	- [Terminal](#terminal)
 	- [Unit Testing](#unit-testing)
 	- [XML](#xml)
 
@@ -166,9 +166,10 @@ Please feel free to open a PR and add things to the list!
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) :zap: - A language-neutral, platform-neutral, extensible mechanism for serializing structured data. ![stars](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square) ![license](https://img.shields.io/github/license/protocolbuffers/protobuf?style=flat-square)
 - [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. ![stars](https://img.shields.io/github/stars/USCiLab/cereal?style=flat-square) ![license](https://img.shields.io/github/license/USCiLab/cereal?style=flat-square)
 
-## TUI
+## Terminal
 
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - A simple cross-platform C++ library for terminal based user interfaces. ![stars](https://img.shields.io/github/stars/ArthurSonzogni/FTXUI?style=flat-square) ![license](https://img.shields.io/github/license/ArthurSonzogni/FTXUI?style=flat-square)
+- [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++. ![stars](https://img.shields.io/github/stars/p-ranav/indicators?style=flat-square) ![license](https://img.shields.io/github/license/p-ranav/indicators?style=flat-square)
 
 ## Unit Testing
 
