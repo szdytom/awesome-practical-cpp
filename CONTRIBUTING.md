@@ -28,7 +28,7 @@ For repository `owner/name`, create a file named `owner.name.json` with the foll
 {
 	"path": "fmtlib/fmt",
 	"description": "A modern formatting library",
-    "icon": "zap",
+	"icon": "zap",
 	"topics": ["Formatting"]
 }
 ```
