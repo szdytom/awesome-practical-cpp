@@ -1,0 +1,6 @@
+{
+	"path": "facebook/folly",
+	"description": "A library of C++17 components designed with practicality and efficiency in mind",
+	"icon": "zap",
+	"topics": ["Basic Utility"]
+}

@@ -18,6 +18,7 @@ Please feel free to open a PR and add things to the list!
 ## Contents
 
 - [Awesome Practical C++](#awesome-practical-c--)
+	- [Basic Utility](#basic-utility)
 	- [CLI](#cli)
 	- [Concurrency](#concurrency)
 	- [Database](#database)
@@ -29,6 +30,7 @@ Please feel free to open a PR and add things to the list!
 	- [Game Utility](#game-utility)
 	- [Image Processing](#image-processing)
 	- [Internationalization](#internationalization)
+	- [JIT](#jit)
 	- [JSON](#json)
 	- [Logging](#logging)
 	- [Machine Learning](#machine-learning)
@@ -43,6 +45,11 @@ Please feel free to open a PR and add things to the list!
 	- [TUI](#tui)
 	- [Unit Testing](#unit-testing)
 	- [XML](#xml)
+
+## Basic Utility
+
+- [facebook/folly](https://github.com/facebook/folly) :zap: - A library of C++17 components designed with practicality and efficiency in mind. ![stars](https://img.shields.io/github/stars/facebook/folly?style=flat-square) ![license](https://img.shields.io/github/license/facebook/folly?style=flat-square)
+- [microsoft/proxy](https://github.com/microsoft/proxy) - Next Generation Polymorphism in C++. ![stars](https://img.shields.io/github/stars/microsoft/proxy?style=flat-square) ![license](https://img.shields.io/github/license/microsoft/proxy?style=flat-square)
 
 ## CLI
 
@@ -102,6 +109,10 @@ Please feel free to open a PR and add things to the list!
 
 - [unicode-org/icu](https://github.com/unicode-org/icu) - A set of C/C++ libraries providing Unicode and Globalization support. ![stars](https://img.shields.io/github/stars/unicode-org/icu?style=flat-square) ![license](https://img.shields.io/github/license/unicode-org/icu?style=flat-square)
 
+## JIT
+
+- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2. ![stars](https://img.shields.io/github/stars/herumi/xbyak?style=flat-square) ![license](https://img.shields.io/github/license/herumi/xbyak?style=flat-square)
+
 ## JSON
 
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - Simple and efficient JSON library for Arduino and embedded C++. ![stars](https://img.shields.io/github/stars/bblanchon/ArduinoJson?style=flat-square) ![license](https://img.shields.io/github/license/bblanchon/ArduinoJson?style=flat-square)
@@ -160,6 +171,7 @@ Please feel free to open a PR and add things to the list!
 
 ## Scripting
 
+- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2. ![stars](https://img.shields.io/github/stars/herumi/xbyak?style=flat-square) ![license](https://img.shields.io/github/license/herumi/xbyak?style=flat-square)
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) :construction: - A header-only Python interpreter for game scripting in Modern C++. ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - a C++ <-> Lua API wrapper with advanced features and top notch performance. ![stars](https://img.shields.io/github/stars/ThePhD/sol2?style=flat-square) ![license](https://img.shields.io/github/license/ThePhD/sol2?style=flat-square)
 

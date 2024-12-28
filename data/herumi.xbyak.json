@@ -1,0 +1,6 @@
+{
+	"path": "herumi/xbyak",
+	"description": "A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2",
+	"icon": "",
+	"topics": ["Scripting", "JIT"]
+}
