@@ -1,0 +1,6 @@
+{
+	"path": "webui-dev/webui",
+	"description": "Use any web browser or WebView as GUI, with modern web technologies in the frontend, all in a lightweight portable library",
+	"icon": "",
+	"topics": ["GUI"]
+}
