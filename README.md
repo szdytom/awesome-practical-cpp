@@ -103,6 +103,7 @@ Please feel free to open a PR and add things to the list!
 
 ## Game Utility
 
+- [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. ![stars](https://img.shields.io/github/stars/BehaviorTree/BehaviorTree.CPP?style=flat-square) ![license](https://img.shields.io/github/license/BehaviorTree/BehaviorTree.CPP?style=flat-square)
 - [erincatto/Box2D](https://github.com/erincatto/Box2D) - Box2D is a 2D physics engine for games. ![stars](https://img.shields.io/github/stars/erincatto/Box2D?style=flat-square) ![license](https://img.shields.io/github/license/erincatto/Box2D?style=flat-square)
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications. ![stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics?style=flat-square) ![license](https://img.shields.io/github/license/jrouwe/JoltPhysics?style=flat-square)
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) :construction: - A header-only Python interpreter for game scripting in Modern C++. ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
