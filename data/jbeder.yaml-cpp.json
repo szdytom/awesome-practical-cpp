@@ -1,0 +1,6 @@
+{
+	"path": "jbeder/yaml-cpp",
+	"description": "A YAML parser and emitter in C++",
+	"icon": "",
+	"topics": ["YAML"]
+}

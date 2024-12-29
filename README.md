@@ -21,6 +21,8 @@ Please feel free to open a PR and add things to the list!
 	- [Basic Utility](#basic-utility)
 	- [CLI](#cli)
 	- [Concurrency](#concurrency)
+	- [Cryptography](#cryptography)
+	- [Data Visualization](#data-visualization)
 	- [Database](#database)
 	- [Debugging](#debugging)
 	- [Embedded](#embedded)
@@ -45,6 +47,7 @@ Please feel free to open a PR and add things to the list!
 	- [TUI](#tui)
 	- [Unit Testing](#unit-testing)
 	- [XML](#xml)
+	- [YAML](#yaml)
 
 ## Basic Utility
 
@@ -62,6 +65,14 @@ Please feel free to open a PR and add things to the list!
 - [max0x7ba/atomic_queue](https://github.com/max0x7ba/atomic_queue) :construction: - C++14 multiple-producer-multiple-consumer lock-free queues. ![stars](https://img.shields.io/github/stars/max0x7ba/atomic_queue?style=flat-square) ![license](https://img.shields.io/github/license/max0x7ba/atomic_queue?style=flat-square)
 - [netcan/asyncio](https://github.com/netcan/asyncio) :construction: - A C++20 library to write concurrent code using the async/await syntax. ![stars](https://img.shields.io/github/stars/netcan/asyncio?style=flat-square) ![license](https://img.shields.io/github/license/netcan/asyncio?style=flat-square)
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) :zap: - A general-purpose parallel and heterogeneous task programming system. ![stars](https://img.shields.io/github/stars/taskflow/taskflow?style=flat-square) ![license](https://img.shields.io/github/license/taskflow/taskflow?style=flat-square)
+
+## Cryptography
+
+- [weidai11/cryptopp](https://github.com/weidai11/cryptopp) - Free C++ class library of cryptographic schemes. ![stars](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square) ![license](https://img.shields.io/github/license/weidai11/cryptopp?style=flat-square)
+
+## Data Visualization
+
+- [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - A C++ Graphics Library for Data Visualization. ![stars](https://img.shields.io/github/stars/alandefreitas/matplotplusplus?style=flat-square) ![license](https://img.shields.io/github/license/alandefreitas/matplotplusplus?style=flat-square)
 
 ## Database
 
@@ -192,6 +203,10 @@ Please feel free to open a PR and add things to the list!
 ## XML
 
 - [leethomason/tinyxml2](https://github.com/leethomason/tinyxml2) - A simple, small, efficient, C++ XML parser that can be easily integrated. ![stars](https://img.shields.io/github/stars/leethomason/tinyxml2?style=flat-square) ![license](https://img.shields.io/github/license/leethomason/tinyxml2?style=flat-square)
+
+## YAML
+
+- [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. ![stars](https://img.shields.io/github/stars/jbeder/yaml-cpp?style=flat-square) ![license](https://img.shields.io/github/license/jbeder/yaml-cpp?style=flat-square)
 
 ## Contributing
 
