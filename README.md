@@ -109,7 +109,7 @@ Please feel free to open a PR and add things to the list!
 - [erincatto/Box2D](https://github.com/erincatto/Box2D) - Box2D is a 2D physics engine for games. ![stars](https://img.shields.io/github/stars/erincatto/Box2D?style=flat-square) ![license](https://img.shields.io/github/license/erincatto/Box2D?style=flat-square)
 - [godotengine/godot](https://github.com/godotengine/godot) :zap: - Multi-platform 2D and 3D game engine. ![stars](https://img.shields.io/github/stars/godotengine/godot?style=flat-square) ![license](https://img.shields.io/github/license/godotengine/godot?style=flat-square)
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications. ![stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics?style=flat-square) ![license](https://img.shields.io/github/license/jrouwe/JoltPhysics?style=flat-square)
-- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) :construction: - A header-only Python interpreter for game scripting in Modern C++. ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
+- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - A header-only Python interpreter for game scripting in Modern C++. ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
 - [raysan5/raylib](https://github.com/raysan5/raylib) :zap: - A simple and easy-to-use library to enjoy videogames programming. ![stars](https://img.shields.io/github/stars/raysan5/raylib?style=flat-square) ![license](https://img.shields.io/github/license/raysan5/raylib?style=flat-square)
 - [skypjack/entt](https://github.com/skypjack/entt) :zap: - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more. ![stars](https://img.shields.io/github/stars/skypjack/entt?style=flat-square) ![license](https://img.shields.io/github/license/skypjack/entt?style=flat-square)
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - a C++ <-> Lua API wrapper with advanced features and top notch performance. ![stars](https://img.shields.io/github/stars/ThePhD/sol2?style=flat-square) ![license](https://img.shields.io/github/license/ThePhD/sol2?style=flat-square)
@@ -127,7 +127,7 @@ Please feel free to open a PR and add things to the list!
 ## JIT
 
 - [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2. ![stars](https://img.shields.io/github/stars/herumi/xbyak?style=flat-square) ![license](https://img.shields.io/github/license/herumi/xbyak?style=flat-square)
-- [libriscv/libriscv](https://github.com/libriscv/libriscv) - a simple, slim and complete sandbox that is highly embeddable and configurable, specializes in low-latency, low-footprint emulation. ![stars](https://img.shields.io/github/stars/libriscv/libriscv?style=flat-square) ![license](https://img.shields.io/github/license/libriscv/libriscv?style=flat-square)
+- [libriscv/libriscv](https://github.com/libriscv/libriscv) :construction: - a simple, slim and complete sandbox that is highly embeddable and configurable, specializes in low-latency, low-footprint emulation. ![stars](https://img.shields.io/github/stars/libriscv/libriscv?style=flat-square) ![license](https://img.shields.io/github/license/libriscv/libriscv?style=flat-square)
 
 ## JSON
 
@@ -188,8 +188,8 @@ Please feel free to open a PR and add things to the list!
 ## Scripting
 
 - [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2. ![stars](https://img.shields.io/github/stars/herumi/xbyak?style=flat-square) ![license](https://img.shields.io/github/license/herumi/xbyak?style=flat-square)
-- [libriscv/libriscv](https://github.com/libriscv/libriscv) - a simple, slim and complete sandbox that is highly embeddable and configurable, specializes in low-latency, low-footprint emulation. ![stars](https://img.shields.io/github/stars/libriscv/libriscv?style=flat-square) ![license](https://img.shields.io/github/license/libriscv/libriscv?style=flat-square)
-- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) :construction: - A header-only Python interpreter for game scripting in Modern C++. ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
+- [libriscv/libriscv](https://github.com/libriscv/libriscv) :construction: - a simple, slim and complete sandbox that is highly embeddable and configurable, specializes in low-latency, low-footprint emulation. ![stars](https://img.shields.io/github/stars/libriscv/libriscv?style=flat-square) ![license](https://img.shields.io/github/license/libriscv/libriscv?style=flat-square)
+- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - A header-only Python interpreter for game scripting in Modern C++. ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - a C++ <-> Lua API wrapper with advanced features and top notch performance. ![stars](https://img.shields.io/github/stars/ThePhD/sol2?style=flat-square) ![license](https://img.shields.io/github/license/ThePhD/sol2?style=flat-square)
 
 ## Serialization
