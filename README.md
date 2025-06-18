@@ -127,6 +127,7 @@ Please feel free to open a PR and add things to the list!
 ## JIT
 
 - [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2. ![stars](https://img.shields.io/github/stars/herumi/xbyak?style=flat-square) ![license](https://img.shields.io/github/license/herumi/xbyak?style=flat-square)
+- [libriscv/libriscv](https://github.com/libriscv/libriscv) - a simple, slim and complete sandbox that is highly embeddable and configurable, specializes in low-latency, low-footprint emulation. ![stars](https://img.shields.io/github/stars/libriscv/libriscv?style=flat-square) ![license](https://img.shields.io/github/license/libriscv/libriscv?style=flat-square)
 
 ## JSON
 
@@ -187,6 +188,7 @@ Please feel free to open a PR and add things to the list!
 ## Scripting
 
 - [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2. ![stars](https://img.shields.io/github/stars/herumi/xbyak?style=flat-square) ![license](https://img.shields.io/github/license/herumi/xbyak?style=flat-square)
+- [libriscv/libriscv](https://github.com/libriscv/libriscv) - a simple, slim and complete sandbox that is highly embeddable and configurable, specializes in low-latency, low-footprint emulation. ![stars](https://img.shields.io/github/stars/libriscv/libriscv?style=flat-square) ![license](https://img.shields.io/github/license/libriscv/libriscv?style=flat-square)
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) :construction: - A header-only Python interpreter for game scripting in Modern C++. ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - a C++ <-> Lua API wrapper with advanced features and top notch performance. ![stars](https://img.shields.io/github/stars/ThePhD/sol2?style=flat-square) ![license](https://img.shields.io/github/license/ThePhD/sol2?style=flat-square)
 

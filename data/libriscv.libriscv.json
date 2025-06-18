@@ -1,0 +1,6 @@
+{
+	"path": "libriscv/libriscv",
+	"description": "a simple, slim and complete sandbox that is highly embeddable and configurable, specializes in low-latency, low-footprint emulation",
+	"icon": "",
+	"topics": ["Scripting", "JIT"]
+}
