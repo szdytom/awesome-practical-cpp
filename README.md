@@ -77,6 +77,7 @@ Please feel free to open a PR and add things to the list!
 ## Database
 
 - [google/leveldb](https://github.com/google/leveldb) :zap: - A fast key-value storage library that provides an ordered mapping from string keys to string values. ![stars](https://img.shields.io/github/stars/google/leveldb?style=flat-square) ![license](https://img.shields.io/github/license/google/leveldb?style=flat-square)
+- [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. ![stars](https://img.shields.io/github/stars/SRombauts/SQLiteCpp?style=flat-square) ![license](https://img.shields.io/github/license/SRombauts/SQLiteCpp?style=flat-square)
 
 ## Debugging
 
