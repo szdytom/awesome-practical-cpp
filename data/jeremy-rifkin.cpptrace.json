@@ -1,0 +1,6 @@
+{
+	"path": "jeremy-rifkin/cpptrace",
+	"description": "Simple, portable, and self-contained stacktrace library for C++11 and newer",
+	"icon": "construction",
+	"topics": ["Diagnostics"]
+}

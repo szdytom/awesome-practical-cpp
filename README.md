@@ -25,6 +25,7 @@ Please feel free to open a PR and add things to the list!
 	- [Data Visualization](#data-visualization)
 	- [Database](#database)
 	- [Debugging](#debugging)
+	- [Diagnostics](#diagnostics)
 	- [Embedded](#embedded)
 	- [Formatting](#formatting)
 	- [GPU](#gpu)
@@ -82,6 +83,10 @@ Please feel free to open a PR and add things to the list!
 ## Debugging
 
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) -  A single-header dbg(…) macro for C++. ![stars](https://img.shields.io/github/stars/sharkdp/dbg-macro?style=flat-square) ![license](https://img.shields.io/github/license/sharkdp/dbg-macro?style=flat-square)
+
+## Diagnostics
+
+- [jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace) :construction: - Simple, portable, and self-contained stacktrace library for C++11 and newer. ![stars](https://img.shields.io/github/stars/jeremy-rifkin/cpptrace?style=flat-square) ![license](https://img.shields.io/github/license/jeremy-rifkin/cpptrace?style=flat-square)
 
 ## Embedded
 
