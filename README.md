@@ -202,6 +202,7 @@ Please feel free to open a PR and add things to the list!
 
 - [google/flatbuffers](https://github.com/google/flatbuffers) :zap: - A cross platform serialization library architected for maximum memory efficiency. ![stars](https://img.shields.io/github/stars/google/flatbuffers?style=flat-square) ![license](https://img.shields.io/github/license/google/flatbuffers?style=flat-square)
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) :zap: - A language-neutral, platform-neutral, extensible mechanism for serializing structured data. ![stars](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square) ![license](https://img.shields.io/github/license/protocolbuffers/protobuf?style=flat-square)
+- [stephenberry/glaze](https://github.com/stephenberry/glaze) :construction: - Extremely fast, in memory, serialization, reflection, and RPC library for C++. JSON, BEVE, BSON, CBOR, CSV, JSONB, MessagePack, TOML, YAML, EETF. ![stars](https://img.shields.io/github/stars/stephenberry/glaze?style=flat-square) ![license](https://img.shields.io/github/license/stephenberry/glaze?style=flat-square)
 - [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. ![stars](https://img.shields.io/github/stars/USCiLab/cereal?style=flat-square) ![license](https://img.shields.io/github/license/USCiLab/cereal?style=flat-square)
 
 ## TUI
