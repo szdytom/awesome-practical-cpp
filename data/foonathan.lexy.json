@@ -1,0 +1,6 @@
+{
+	"path": "foonathan/lexy",
+	"description": "C++ parsing DSL",
+	"icon": "construction",
+	"topics": ["Parsing"]
+}

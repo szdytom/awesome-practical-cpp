@@ -40,6 +40,7 @@ Please feel free to open a PR and add things to the list!
 	- [Math](#math)
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
+	- [Parsing](#parsing)
 	- [Physics](#physics)
 	- [Reflection](#reflection)
 	- [Rendering](#rendering)
@@ -174,6 +175,10 @@ Please feel free to open a PR and add things to the list!
 - [pocoproject/poco](https://github.com/pocoproject/poco) - A Powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems. ![stars](https://img.shields.io/github/stars/pocoproject/poco?style=flat-square) ![license](https://img.shields.io/github/license/pocoproject/poco?style=flat-square)
 - [sogou/workflow](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Framework. ![stars](https://img.shields.io/github/stars/sogou/workflow?style=flat-square) ![license](https://img.shields.io/github/license/sogou/workflow?style=flat-square)
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) :zap: - Simple, secure & standards compliant web server for the most demanding of applications. ![stars](https://img.shields.io/github/stars/uNetworking/uWebSockets?style=flat-square) ![license](https://img.shields.io/github/license/uNetworking/uWebSockets?style=flat-square)
+
+## Parsing
+
+- [foonathan/lexy](https://github.com/foonathan/lexy) :construction: - C++ parsing DSL. ![stars](https://img.shields.io/github/stars/foonathan/lexy?style=flat-square) ![license](https://img.shields.io/github/license/foonathan/lexy?style=flat-square)
 
 ## Physics
 
