@@ -179,6 +179,7 @@ Please feel free to open a PR and add things to the list!
 ## Parsing
 
 - [foonathan/lexy](https://github.com/foonathan/lexy) :construction: - C++ parsing DSL. ![stars](https://img.shields.io/github/stars/foonathan/lexy?style=flat-square) ![license](https://img.shields.io/github/license/foonathan/lexy?style=flat-square)
+- [taocpp/PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library. ![stars](https://img.shields.io/github/stars/taocpp/PEGTL?style=flat-square) ![license](https://img.shields.io/github/license/taocpp/PEGTL?style=flat-square)
 
 ## Physics
 
