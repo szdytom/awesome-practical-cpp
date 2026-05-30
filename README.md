@@ -180,6 +180,7 @@ Please feel free to open a PR and add things to the list!
 
 - [foonathan/lexy](https://github.com/foonathan/lexy) :construction: - C++ parsing DSL. ![stars](https://img.shields.io/github/stars/foonathan/lexy?style=flat-square) ![license](https://img.shields.io/github/license/foonathan/lexy?style=flat-square)
 - [taocpp/PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library. ![stars](https://img.shields.io/github/stars/taocpp/PEGTL?style=flat-square) ![license](https://img.shields.io/github/license/taocpp/PEGTL?style=flat-square)
+- [yhirose/cpp-peglib](https://github.com/yhirose/cpp-peglib) :construction: - A single file C++ header-only PEG (Parsing Expression Grammars) library. ![stars](https://img.shields.io/github/stars/yhirose/cpp-peglib?style=flat-square) ![license](https://img.shields.io/github/license/yhirose/cpp-peglib?style=flat-square)
 
 ## Physics
 

@@ -1,0 +1,6 @@
+{
+	"path": "yhirose/cpp-peglib",
+	"description": "A single file C++ header-only PEG (Parsing Expression Grammars) library",
+	"icon": "construction",
+	"topics": ["Parsing"]
+}
