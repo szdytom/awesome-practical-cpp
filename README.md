@@ -54,7 +54,7 @@ Please feel free to open a PR and add things to the list!
 ## Basic Utility
 
 - [facebook/folly](https://github.com/facebook/folly) :zap: - A library of C++17 components designed with practicality and efficiency in mind. ![stars](https://img.shields.io/github/stars/facebook/folly?style=flat-square) ![license](https://img.shields.io/github/license/facebook/folly?style=flat-square)
-- [microsoft/proxy](https://github.com/microsoft/proxy) - Next Generation Polymorphism in C++. ![stars](https://img.shields.io/github/stars/microsoft/proxy?style=flat-square) ![license](https://img.shields.io/github/license/microsoft/proxy?style=flat-square)
+- [ngcpp/proxy](https://github.com/ngcpp/proxy) - Next Generation Polymorphism in C++. ![stars](https://img.shields.io/github/stars/ngcpp/proxy?style=flat-square) ![license](https://img.shields.io/github/license/ngcpp/proxy?style=flat-square)
 
 ## CLI
 
