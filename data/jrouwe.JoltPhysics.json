@@ -1,6 +1,6 @@
 {
 	"path": "jrouwe/JoltPhysics",
 	"description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications",
-	"icon": "",
+	"icon": "zap",
 	"topics": ["Physics", "Game Utility"]
 }

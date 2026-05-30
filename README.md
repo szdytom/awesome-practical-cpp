@@ -47,7 +47,7 @@ Please feel free to open a PR and add things to the list!
 	- [Scripting](#scripting)
 	- [Serialization](#serialization)
 	- [TUI](#tui)
-	- [Unit Testing](#unit-testing)
+	- [Testing](#testing)
 	- [XML](#xml)
 	- [YAML](#yaml)
 
@@ -63,7 +63,7 @@ Please feel free to open a PR and add things to the list!
 
 ## Concurrency
 
-- [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp) :construction: - Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all. ![stars](https://img.shields.io/github/stars/David-Haim/concurrencpp?style=flat-square) ![license](https://img.shields.io/github/license/David-Haim/concurrencpp?style=flat-square)
+- [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp) - Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all. ![stars](https://img.shields.io/github/stars/David-Haim/concurrencpp?style=flat-square) ![license](https://img.shields.io/github/license/David-Haim/concurrencpp?style=flat-square)
 - [max0x7ba/atomic_queue](https://github.com/max0x7ba/atomic_queue) :construction: - C++14 multiple-producer-multiple-consumer lock-free queues. ![stars](https://img.shields.io/github/stars/max0x7ba/atomic_queue?style=flat-square) ![license](https://img.shields.io/github/license/max0x7ba/atomic_queue?style=flat-square)
 - [netcan/asyncio](https://github.com/netcan/asyncio) :construction: - A C++20 library to write concurrent code using the async/await syntax. ![stars](https://img.shields.io/github/stars/netcan/asyncio?style=flat-square) ![license](https://img.shields.io/github/license/netcan/asyncio?style=flat-square)
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) :zap: - A general-purpose parallel and heterogeneous task programming system. ![stars](https://img.shields.io/github/stars/taskflow/taskflow?style=flat-square) ![license](https://img.shields.io/github/license/taskflow/taskflow?style=flat-square)
@@ -115,7 +115,7 @@ Please feel free to open a PR and add things to the list!
 - [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. ![stars](https://img.shields.io/github/stars/BehaviorTree/BehaviorTree.CPP?style=flat-square) ![license](https://img.shields.io/github/license/BehaviorTree/BehaviorTree.CPP?style=flat-square)
 - [erincatto/Box2D](https://github.com/erincatto/Box2D) - Box2D is a 2D physics engine for games. ![stars](https://img.shields.io/github/stars/erincatto/Box2D?style=flat-square) ![license](https://img.shields.io/github/license/erincatto/Box2D?style=flat-square)
 - [godotengine/godot](https://github.com/godotengine/godot) :zap: - Multi-platform 2D and 3D game engine. ![stars](https://img.shields.io/github/stars/godotengine/godot?style=flat-square) ![license](https://img.shields.io/github/license/godotengine/godot?style=flat-square)
-- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications. ![stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics?style=flat-square) ![license](https://img.shields.io/github/license/jrouwe/JoltPhysics?style=flat-square)
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) :zap: - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications. ![stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics?style=flat-square) ![license](https://img.shields.io/github/license/jrouwe/JoltPhysics?style=flat-square)
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - A header-only Python interpreter for game scripting in Modern C++. ![stars](https://img.shields.io/github/stars/pocketpy/pocketpy?style=flat-square) ![license](https://img.shields.io/github/license/pocketpy/pocketpy?style=flat-square)
 - [raysan5/raylib](https://github.com/raysan5/raylib) :zap: - A simple and easy-to-use library to enjoy videogames programming. ![stars](https://img.shields.io/github/stars/raysan5/raylib?style=flat-square) ![license](https://img.shields.io/github/license/raysan5/raylib?style=flat-square)
 - [skypjack/entt](https://github.com/skypjack/entt) :zap: - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more. ![stars](https://img.shields.io/github/stars/skypjack/entt?style=flat-square) ![license](https://img.shields.io/github/license/skypjack/entt?style=flat-square)
@@ -125,7 +125,7 @@ Please feel free to open a PR and add things to the list!
 
 - [davisking/dlib](https://github.com/davisking/dlib) :zap: - A toolkit for making real world machine learning and data analysis applications in C++. ![stars](https://img.shields.io/github/stars/davisking/dlib?style=flat-square) ![license](https://img.shields.io/github/license/davisking/dlib?style=flat-square)
 - [opencv/opencv](https://github.com/opencv/opencv) :zap: - Open Source Computer Vision Library. ![stars](https://img.shields.io/github/stars/opencv/opencv?style=flat-square) ![license](https://img.shields.io/github/license/opencv/opencv?style=flat-square)
-- [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) - A standalone, large scale, open project for 2D/3D image and point cloud processing. ![stars](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=flat-square) ![license](https://img.shields.io/github/license/PointCloudLibrary/pcl?style=flat-square)
+- [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) :zap: - A standalone, large scale, open project for 2D/3D image and point cloud processing. ![stars](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=flat-square) ![license](https://img.shields.io/github/license/PointCloudLibrary/pcl?style=flat-square)
 
 ## Internationalization
 
@@ -162,7 +162,7 @@ Please feel free to open a PR and add things to the list!
 
 ## Multimedia
 
-- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer. ![stars](https://img.shields.io/github/stars/libsdl-org/SDL?style=flat-square) ![license](https://img.shields.io/github/license/libsdl-org/SDL?style=flat-square)
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) :zap: - Simple Directmedia Layer. ![stars](https://img.shields.io/github/stars/libsdl-org/SDL?style=flat-square) ![license](https://img.shields.io/github/license/libsdl-org/SDL?style=flat-square)
 - [SFML/SFML](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. ![stars](https://img.shields.io/github/stars/SFML/SFML?style=flat-square) ![license](https://img.shields.io/github/license/SFML/SFML?style=flat-square)
 
 ## Networking
@@ -185,7 +185,7 @@ Please feel free to open a PR and add things to the list!
 ## Physics
 
 - [erincatto/Box2D](https://github.com/erincatto/Box2D) - Box2D is a 2D physics engine for games. ![stars](https://img.shields.io/github/stars/erincatto/Box2D?style=flat-square) ![license](https://img.shields.io/github/license/erincatto/Box2D?style=flat-square)
-- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications. ![stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics?style=flat-square) ![license](https://img.shields.io/github/license/jrouwe/JoltPhysics?style=flat-square)
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) :zap: - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications. ![stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics?style=flat-square) ![license](https://img.shields.io/github/license/jrouwe/JoltPhysics?style=flat-square)
 
 ## Reflection
 
@@ -194,7 +194,7 @@ Please feel free to open a PR and add things to the list!
 ## Rendering
 
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) :zap: - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. ![stars](https://img.shields.io/github/stars/bkaradzic/bgfx?style=flat-square) ![license](https://img.shields.io/github/license/bkaradzic/bgfx?style=flat-square)
-- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer. ![stars](https://img.shields.io/github/stars/libsdl-org/SDL?style=flat-square) ![license](https://img.shields.io/github/license/libsdl-org/SDL?style=flat-square)
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) :zap: - Simple Directmedia Layer. ![stars](https://img.shields.io/github/stars/libsdl-org/SDL?style=flat-square) ![license](https://img.shields.io/github/license/libsdl-org/SDL?style=flat-square)
 - [raysan5/raylib](https://github.com/raysan5/raylib) :zap: - A simple and easy-to-use library to enjoy videogames programming. ![stars](https://img.shields.io/github/stars/raysan5/raylib?style=flat-square) ![license](https://img.shields.io/github/license/raysan5/raylib?style=flat-square)
 - [SFML/SFML](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. ![stars](https://img.shields.io/github/stars/SFML/SFML?style=flat-square) ![license](https://img.shields.io/github/license/SFML/SFML?style=flat-square)
 
@@ -209,16 +209,17 @@ Please feel free to open a PR and add things to the list!
 
 - [google/flatbuffers](https://github.com/google/flatbuffers) :zap: - A cross platform serialization library architected for maximum memory efficiency. ![stars](https://img.shields.io/github/stars/google/flatbuffers?style=flat-square) ![license](https://img.shields.io/github/license/google/flatbuffers?style=flat-square)
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) :zap: - A language-neutral, platform-neutral, extensible mechanism for serializing structured data. ![stars](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square) ![license](https://img.shields.io/github/license/protocolbuffers/protobuf?style=flat-square)
-- [stephenberry/glaze](https://github.com/stephenberry/glaze) :construction: - Extremely fast, in memory, serialization, reflection, and RPC library for C++. JSON, BEVE, BSON, CBOR, CSV, JSONB, MessagePack, TOML, YAML, EETF. ![stars](https://img.shields.io/github/stars/stephenberry/glaze?style=flat-square) ![license](https://img.shields.io/github/license/stephenberry/glaze?style=flat-square)
+- [stephenberry/glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, serialization, reflection, and RPC library for C++. JSON, BEVE, BSON, CBOR, CSV, JSONB, MessagePack, TOML, YAML, EETF. ![stars](https://img.shields.io/github/stars/stephenberry/glaze?style=flat-square) ![license](https://img.shields.io/github/license/stephenberry/glaze?style=flat-square)
 - [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. ![stars](https://img.shields.io/github/stars/USCiLab/cereal?style=flat-square) ![license](https://img.shields.io/github/license/USCiLab/cereal?style=flat-square)
 
 ## TUI
 
-- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - A simple cross-platform C++ library for terminal based user interfaces. ![stars](https://img.shields.io/github/stars/ArthurSonzogni/FTXUI?style=flat-square) ![license](https://img.shields.io/github/license/ArthurSonzogni/FTXUI?style=flat-square)
+- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) :zap: - A simple cross-platform C++ library for terminal based user interfaces. ![stars](https://img.shields.io/github/stars/ArthurSonzogni/FTXUI?style=flat-square) ![license](https://img.shields.io/github/license/ArthurSonzogni/FTXUI?style=flat-square)
 
-## Unit Testing
+## Testing
 
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) :zap: - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later. ![stars](https://img.shields.io/github/stars/catchorg/Catch2?style=flat-square) ![license](https://img.shields.io/github/license/catchorg/Catch2?style=flat-square)
+- [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20/23 single-header testing framework. ![stars](https://img.shields.io/github/stars/doctest/doctest?style=flat-square) ![license](https://img.shields.io/github/license/doctest/doctest?style=flat-square)
 
 ## XML
 

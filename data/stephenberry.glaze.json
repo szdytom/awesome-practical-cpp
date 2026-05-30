@@ -1,6 +1,6 @@
 {
 	"path": "stephenberry/glaze",
 	"description": "Extremely fast, in memory, serialization, reflection, and RPC library for C++. JSON, BEVE, BSON, CBOR, CSV, JSONB, MessagePack, TOML, YAML, EETF",
-	"icon": "construction",
+	"icon": "",
 	"topics": ["Serialization"]
 }

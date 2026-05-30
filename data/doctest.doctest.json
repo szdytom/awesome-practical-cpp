@@ -1,0 +1,6 @@
+{
+	"path": "doctest/doctest",
+	"description": "The fastest feature-rich C++11/14/17/20/23 single-header testing framework",
+	"icon": "",
+	"topics": ["Testing"]
+}

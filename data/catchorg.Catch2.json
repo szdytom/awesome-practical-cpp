@@ -2,5 +2,5 @@
 	"path": "catchorg/Catch2",
 	"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later",
 	"icon": "zap",
-	"topics": ["Unit Testing"]
+	"topics": ["Testing"]
 }
