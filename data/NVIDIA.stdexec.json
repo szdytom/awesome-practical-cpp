@@ -1,0 +1,6 @@
+{
+	"path": "NVIDIA/stdexec",
+	"description": "std::execution, the standard C++ framework for asynchronous and parallel programming",
+	"icon": "",
+	"topics": ["Concurrency"]
+}

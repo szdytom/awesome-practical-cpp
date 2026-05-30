@@ -65,6 +65,7 @@ Please feel free to open a PR and add things to the list!
 
 - [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp) - Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all. ![stars](https://img.shields.io/github/stars/David-Haim/concurrencpp?style=flat-square) ![license](https://img.shields.io/github/license/David-Haim/concurrencpp?style=flat-square)
 - [max0x7ba/atomic_queue](https://github.com/max0x7ba/atomic_queue) :construction: - C++14 multiple-producer-multiple-consumer lock-free queues. ![stars](https://img.shields.io/github/stars/max0x7ba/atomic_queue?style=flat-square) ![license](https://img.shields.io/github/license/max0x7ba/atomic_queue?style=flat-square)
+- [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec) - std::execution, the standard C++ framework for asynchronous and parallel programming. ![stars](https://img.shields.io/github/stars/NVIDIA/stdexec?style=flat-square) ![license](https://img.shields.io/github/license/NVIDIA/stdexec?style=flat-square)
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) :zap: - A general-purpose parallel and heterogeneous task programming system. ![stars](https://img.shields.io/github/stars/taskflow/taskflow?style=flat-square) ![license](https://img.shields.io/github/license/taskflow/taskflow?style=flat-square)
 
 ## Cryptography
